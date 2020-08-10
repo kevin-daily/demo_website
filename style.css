@@ -1,6 +1,6 @@
 body {
   background-color: burlywood;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Red Rose', cursive;
 }
 nav {
   background-color: darkseagreen;
@@ -46,10 +46,11 @@ h1 {
   position: relative;
   left: -8px;
   width: 100vw;
-  height: 50vh;
+  height: 30vh;
   padding-top:3em;
-  background: url('https://images.unsplash.com/photo-1556513583-056edaa0d23e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80') center 75% no-repeat fixed;
+  background: url('/home/butters/Pictures/hallabong.jpg') center 75% no-repeat fixed;
   background-size: cover;
+  background-attachment: scroll;
 }
 .header-tag {
   text-align: center;
